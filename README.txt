@@ -1,30 +1,44 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Portfolio Website
 
+Introduction
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Welcome to my portfolio website! This space showcases my work in data analysis and visualization. I am passionate about transforming raw data into meaningful insights through effective visualization techniques.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+About Me
 
-(* = not included)
+I am a data analyst with a keen interest in data visualization and cleaning. I enjoy working with large datasets and uncovering trends that help drive decision-making. My portfolio includes projects that highlight my skills in data wrangling, visualization, and storytelling with data.
 
-AJ
-aj@lkn.io | @ajlkn
+Projects
 
+1. Crypto Data Visualization
 
-Credits:
+This project focuses on visualizing cryptocurrency market trends. It includes:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Data collection from various crypto exchanges
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Cleaning and structuring historical price data
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Interactive charts showcasing price trends, market capitalization, and volume
+
+Insights derived from time-series analysis
+
+2. Boat Data Cleaning and Visualization
+
+This project involves cleaning and analyzing boat-related datasets to provide actionable insights. It covers:
+
+Data preprocessing and handling missing values
+
+Identifying patterns in boat sales, usage, and pricing
+
+Creating visual dashboards for better decision-making
+
+How to Access the Projects
+
+You can view the projects on my portfolio website. Each project includes a detailed breakdown of the process, methodologies used, and key takeaways.
+
+Contact
+
+Feel free to connect with me for collaborations or to discuss data-related topics!
+
+Thank you for visiting my portfolio!
+
